@@ -1,0 +1,74 @@
+.secao {
+    text-align: center;
+    margin:30px auto ;
+    width: 800px;
+}
+
+.img-logo {
+    width: 250px;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    color: #4d2406;
+    margin: 15px;
+    border-left: 10px solid #bf9a0a;
+    padding-left: 5px;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    border-top: 2px solid #bf9a0a;
+    padding-top: 15px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium';
+    color: #bf9a0a;
+}
+
+.img-banner {
+    width: 700px;
+    border-radius: 25px;
+}
+
+.secao-destaque {
+    background-color: #bf9a0a;
+    border-radius: 25px;
+    padding-bottom: 25px;
+}
+
+.secao-destaque p, .secao-destaque h3, .secao-destaque h4 {
+    font-family: 'Franklin Gothic Medium';
+    color: aliceblue;
+}
+
+.secao-destaque h3 {
+    font-size: 35px;
+}
+
+.secao-destaque h4 {
+    font-size: 25px;
+}
+
+.secao-destaque p {
+    padding: 0 150px;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.secao-destaque img {
+    width: 400px;
+    border-radius: 25px;
+}
+
+.contato {
+    line-height: 30px;
+}
+
+.contato span {
+    font-weight: bold;
+}
